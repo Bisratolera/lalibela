@@ -1,6 +1,6 @@
 # Lalibela
 
-![Lalibela Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLalibela&psig=AOvVaw3ybafzgd7aNZh_AyzHaUTh&ust=1711961953406000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDQgaiRnoUDFQAAAAAdAAAAABAD)
+![ላሊበላ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/1200px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg)
 
 Lalibela is a lightweight and elegant web application framework designed to simplify the process of building modern web applications with ease. Inspired by the majestic beauty and architectural marvels of the Ethiopian city of Lalibela, our framework aims to provide developers with a seamless development experience while delivering stunning and performant web applications.
 
