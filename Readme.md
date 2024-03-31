@@ -4,17 +4,6 @@
 
 Lalibela is located in debre roha or lasta in amahara region.
 
-## Features
-
-- **Minimalist Architecture**: Lalibela follows a minimalist architectural approach, focusing on simplicity and clarity in design, making it easy for developers to understand and extend.
-  
-- **Component-Based Structure**: With Lalibela, developers can build web applications using a component-based architecture, promoting code reusability and maintainability.
-  
-- **Responsive Design**: Lalibela's responsive design ensures that web applications built with the framework look and perform beautifully across various devices and screen sizes.
-  
-- **Customizable Styling**: The framework provides customizable styling options, allowing developers to tailor the look and feel of their applications to suit their branding and design preferences.
-  
-- **Efficient Performance**: Lalibela is optimized for performance, ensuring fast loading times and smooth user experiences, even on low-powered devices and slow network connections.
 
 ## Getting Started
 
