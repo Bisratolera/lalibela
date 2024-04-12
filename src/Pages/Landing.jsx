@@ -11,12 +11,12 @@ import cloud2 from "../assets/cloud2.png"
 // import slice from "../assets/slice1.png"
 
 const Landing = () => {
-  const [topVal, setTopVal] = useState(0);
-  useEffect(() => {
-    function scroll(e) {
+  // const [topVal, setTopVal] = useState(0);
+  // useEffect(() => {
+  //   function scroll(e) {
 
-    }
-  }, [])
+  //   }
+  // }, [])
   return (
   <>
     <div className={`wrapper w-full h-screen bg-sky-300 bg-opacity-60 overflow-hidden relative`}>
