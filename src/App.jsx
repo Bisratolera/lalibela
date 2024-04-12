@@ -1,7 +1,11 @@
+import About from './Components/About'
+import Landing from './Pages/Landing'
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+   <>
+   <Landing/>
+   <About/>
+   </>
   )
 }
